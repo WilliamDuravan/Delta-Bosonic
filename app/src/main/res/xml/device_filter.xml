@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FLIR Boson: VID 0x09CB = 2507, PID 0x4007 = 16391 (this unit; VID alone covers other FLIR cores). -->
+    <usb-device vendor-id="2507" />
+</resources>
